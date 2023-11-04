@@ -1,0 +1,40 @@
+{
+  "seller": [
+    {
+      "name": "Swati Jha",
+      "email": "swatijha>com",
+      "password": "swati@123",
+      "id": 1
+    },
+    {
+      "name": "Swati Jha",
+      "email": "swatijha.com",
+      "password": "swati@123",
+      "id": 2
+    },
+    {
+      "name": "swa",
+      "password": "sjsj",
+      "email": "sjswa@sw",
+      "id": 3
+    },
+    {
+      "name": "Ayush Jha",
+      "email": "ayujha.com",
+      "password": "ayush@123",
+      "id": 4
+    },
+    {
+      "name": "tony",
+      "password": "tony123",
+      "email": "tony@tony",
+      "id": 5
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@bruce",
+      "id": 7
+    }
+  ]
+}
